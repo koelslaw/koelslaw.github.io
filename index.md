@@ -1,6 +1,6 @@
-<!-- ---
-image: img/panel.jpg
---- -->
+---
+image: img/sample_logo.png
+---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
