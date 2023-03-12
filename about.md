@@ -1,10 +1,10 @@
 ---
 layout: default
+image: img/sample_logo.png
 title: About
-description: About Us
 ---
 
-# Useful title
+# About us
 some about info here like how many years you have been operating or any orgs you may be a part of
 
 
