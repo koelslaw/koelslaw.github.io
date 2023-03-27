@@ -1,5 +1,5 @@
 - title: Miljavac Electric
-  url: "/"
+  url: ""
   side: left
 
 
@@ -10,7 +10,7 @@
   url: "industrial/"
   side: left
 - title: "Institutional"
-  url: "/"
+  url: ""
   side: left
   dropdown:
   - title: "Rehabilitation Facilities"
@@ -22,13 +22,10 @@
   - title: "Retirement Facilities"
     url: "retirement_fac/"
   - title: "Pharmaceutical"
-    url: "Pharmaceutical/"
-- title: "Facility Maintenance"
-  url: "facility_maintenance/"
-  side: left
+    url: "pharma/"
 
 - title: "Security/Low Voltage"
-  url: "/"
+  url: ""
   side: left
   dropdown:
   - title: "Data Communications"
@@ -37,3 +34,7 @@
     url: "sec/"
   - title: "Building Management"
     url: "building/"
+
+- title: "Facility Maintenance"
+  url: "facility_maintx/"
+  side: left
