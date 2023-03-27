@@ -11,6 +11,7 @@
 - title: "Institutional"
   url: "institutional"
   side: left
+  dropdown:
   - title: "Rehabilitation Facilities"
     url: "/rehab_fac/"
   - title: "Medical Facilities"
