@@ -9,17 +9,31 @@
 - title: "Services"
   url: "/"
   side: left
+- title: "Commercial"
+  url: "/commercial/"
+  side: left
+- title: "Industrial"
+  url: "/industrial/"
+  side: left
+- title: "Institutional"
+  url: "institutional"
+  side: left
+- title: "Pharmaceutical"
+  url: "/Pharmaceutical/"
+  side: left
+- title: "Facility Maintenance"
+  url: "/facility_maintenance/"
+  side: left
+- title: "Security/Low Voltage"
+  url: "/"
+  side: left
   dropdown:
-  - title: "Training"
-    url: "/training/"
-  - title: "Consulting"
-    url: "/consulting/"
-#   - title: "Typography"
-#     url: "/design/typography/typography/"
-#   - title: "Page/Post"
-#     url: "/design/page/"
-#   - title: "Post-Left-Sidebar"
-#     url: "/design/post-left-sidebar/"
+  - title: "Data Communications"
+    url: "/data/"
+  - title: "Security Systems"
+    url: "/sec/"
+  - title: "Building Management"
+    url: "/building/"
 #   - title: "Post-Right-Sidebar"
 #     url: "/design/post-right-sidebar/"
 #   - title: "Page Full-Width"
