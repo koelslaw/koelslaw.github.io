@@ -2,8 +2,7 @@
   url: "/"
   side: left
 
-
-- title: "Facility Design"
+- title: "Facility Specialities"
   url: "/"
   side: left
   dropdown:
@@ -22,12 +21,12 @@
       url: "/dental_fac/"
     - title: "Retirement Facilities"
       url: "/retirement_fac/"
-- title: "Pharmaceutical"
-  url: "/Pharmaceutical/"
-  side: left
-- title: "Facility Maintenance"
+    - title: "Pharmaceutical"
+      url: "/Pharmaceutical/"
+  - title: "Facility Maintenance"
   url: "/facility_maintenance/"
   side: left
+
 - title: "Security/Low Voltage"
   url: "/"
   side: left
@@ -38,60 +37,3 @@
     url: "/sec/"
   - title: "Building Management"
     url: "/building/"
-#   - title: "Post-Right-Sidebar"
-#     url: "/design/post-right-sidebar/"
-#   - title: "Page Full-Width"
-#     url: "/design/page-fullwidth/"
-#   - title: "Blog-Page"
-#     url: "/blog/"
-#   - title: "Video"
-#     url: "/design/video/"
-#   - title: "Gallery"
-#     url: "/design/gallery/"
-#   - title: "Portfolio"
-#     url: "/design/portfolio/"
-
-# - title: "Header Styles"
-#   url: "/headers/"
-#   side: left
-#   dropdown:
-#   - title: "Header with Full-Width-Image"
-#     url: "/design/header-full-width-image/"
-#   - title: "Header with Image and Pattern"
-#     url: "/design/header-image-pattern/"
-#   - title: "Header with image and color"
-#     url: "/design/header-image-color/"
-#   - title: "Header Only With Logo"
-#     url: "/design/header-logo-only/"
-#   - title: "Header With Text"
-#     url: "/design/header-with-text/"
-#   - title: "No Header"
-#     url: "/design/no-header/"
-#   - title: "No Header but Image"
-#     url: "/design/no-header-but-image/"
-
-# - title: Partners
-#   url: "/partners/"
-#   side: left
-#   dropdown:
-#   - title: "Federal Resources Corp"
-#     url: "https://fedresources.com/"
-  
-# - title: Blog
-#   url: "/blog/"
-#   side: left
-#   dropdown:
-#   - title: "Blog Archive"
-#     url: "/blog/archive/"
-
-# - title: "Search"
-#   url: "/search/"
-#   side: right
-
-# - title: "GitHub"
-#   url: "https://github.com/Strix-labs-llc"
-#   side: right
-
-# - title: "Contact"
-#   url: "/contact/"
-#   side: right
