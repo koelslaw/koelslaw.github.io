@@ -3,7 +3,7 @@ layout: page
 title: "Building Management"
 header:
    image_fullwidth: "header_unsplash_12.jpg"
-permalink: "building/"
+permalink: "/building/"
 ---
 
 ## Title
