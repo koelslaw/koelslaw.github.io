@@ -6,22 +6,22 @@
 #
 layout: frontpage
 header:
-  image_fullwidth: marvin-meyer-SYTO3xs06fU-unsplash-smaller.jpg
+  image_fullwidth: Screenshot 2023-03-19 171022.png
 widget1:
-  title: "Post 1"
+  title: "Highlight Item 1"
   url: 'https://koelslaw.github.io/training/'
   image: widget-1-302x182.jpg
-  text: 'Check out of security training offerings. We have 3 main focus areas around Network, Endpoint and Engineering.'
+  text: 'Check out our offerings.'
 widget2:
-  title: "Post 2"
+  title: "Highlight Item 2"
   image: marvin-meyer-SYTO3xs06fU-unsplash-smaller.jpg
   url: 'https://koelslaw.github.io/consulting/'
   text: 'Want custom consulting around a solution? See what we can offer!'
 widget3:
-  title: "Post 3"
+  title: "Highlight Item 3"
   image: marvin-meyer-SYTO3xs06fU-unsplash-smaller.jpg
   url: 'https://koelslaw.github.io/team/'
-  text: 'Meet the members of Strix Labs'
+  text: 'Meet the members of the team'
 
 #
 # Use the call for action to show a button on the frontpage
