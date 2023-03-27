@@ -18,6 +18,14 @@
 - title: "Institutional"
   url: "institutional"
   side: left
+  - title: "Rehabilitation Facilities"
+    url: "/rehab_fac/"
+  - title: "Medical Facilities"
+    url: "/med_fac/"
+  - title: "Dental Offices"
+    url: "/dental_fac/"
+    - title: "Retirement Facilities"
+    url: "/retirement_fac/"
 - title: "Pharmaceutical"
   url: "/Pharmaceutical/"
   side: left
@@ -66,12 +74,12 @@
 #   - title: "No Header but Image"
 #     url: "/design/no-header-but-image/"
 
-- title: Partners
-  url: "/partners/"
-  side: left
-  dropdown:
-  - title: "Federal Resources Corp"
-    url: "https://fedresources.com/"
+# - title: Partners
+#   url: "/partners/"
+#   side: left
+#   dropdown:
+#   - title: "Federal Resources Corp"
+#     url: "https://fedresources.com/"
   
 # - title: Blog
 #   url: "/blog/"
@@ -84,10 +92,10 @@
 #   url: "/search/"
 #   side: right
 
-- title: "GitHub"
-  url: "https://github.com/Strix-labs-llc"
-  side: right
+# - title: "GitHub"
+#   url: "https://github.com/Strix-labs-llc"
+#   side: right
 
-- title: "Contact"
-  url: "/contact/"
-  side: right
+# - title: "Contact"
+#   url: "/contact/"
+#   side: right
