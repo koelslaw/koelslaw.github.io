@@ -1,10 +1,10 @@
 ---
 layout: page
 title: "Data Communications"
-header:
-   image_fullwidth: "marvin-meyer-SYTO3xs06fU-unsplash-smaller.jpg"
 permalink: "/data/"
 ---
 
-## Title
-Info
+## Header 1
+![](/images/Screenshot 2023-03-20 072930.png)
+
+desc here

@@ -1,10 +1,13 @@
 ---
 layout: page
 title: "Pharmaceutical"
-header:
-   image_fullwidth: "marvin-meyer-SYTO3xs06fU-unsplash-smaller.jpg"
 permalink: "/pharma/"
 ---
 
-## Title
-Info
+## Header 1
+![](/images/Screenshot 2023-03-19 163001.png)
+desc 1
+
+## Header 1
+![](/images/Screenshot 2023-03-19 162315.png)
+desc 1

@@ -1,10 +1,9 @@
 ---
 layout: page
 title: "Dental Facilties"
-header:
-   image_fullwidth: "marvin-meyer-SYTO3xs06fU-unsplash-smaller.jpg"
 permalink: "/dental_fac/"
 ---
 
-## Title
-Info
+## Header 1
+![](/images/Screenshot 2023-03-19 163509.png)
+desc 1
