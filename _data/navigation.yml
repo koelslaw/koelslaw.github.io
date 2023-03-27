@@ -11,7 +11,7 @@
   - title: "Industrial"
     url: "/industrial/"
   - title: "Institutional"
-    url: "institutional"
+    url: "/"
     dropdown:
     - title: "Rehabilitation Facilities"
       url: "/rehab_fac/"
