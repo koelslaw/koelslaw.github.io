@@ -2,7 +2,7 @@
 layout: page
 title: "strixlabs.io shangelog"
 header:
-   image_fullwidth: "header_unsplash_12.jpg"
+   image_fullwidth: "header_unsplash_12-smaller.jpg"
 permalink: "/changelog/"
 ---
 2023-03-2 // Version 1.0

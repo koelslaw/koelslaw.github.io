@@ -6,7 +6,7 @@
 #
 layout: frontpage
 header:
-  image_fullwidth: header_unsplash_12.jpg
+  image_fullwidth: header_unsplash_12-smaller.jpg
 widget1:
   title: "Post 1"
   url: 'https://koelslaw.github.io/training/'
