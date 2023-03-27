@@ -2,7 +2,7 @@
 layout: page
 title: "strixlabs.io shangelog"
 header:
-   image_fullwidth: "header_unsplash_12-smaller.jpg"
+   image_fullwidth: "marvin-meyer-SYTO3xs06fU-unsplash-smaller.jpg"
 permalink: "/changelog/"
 ---
 2023-03-2 // Version 1.0
