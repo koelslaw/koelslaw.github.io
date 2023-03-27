@@ -1,41 +1,23 @@
-<!DOCTYPE html>
-<html lang="{{ site.lang | default: "en-US" }}">
-  <head>
-    <meta charset="UTF-8">
+---
+layout: compress
+---
+<!doctype html>
+<html class="no-js" lang="{% if site.language == nil %}en{% else %}{{ site.language }}{% endif %}">
+<head>
+	{% include _head.html %}
+</head>
+<body id="top-of-page" class="{{ layout.format }}">
+	{% unless page.skip_boilerplate %}
+	{% include _navigation.html %}
+	{% endunless %}
 
-{% seo %}
-    <link rel="preconnect" href="https://fonts.gstatic.com">
-    <link rel="preload" href="https://fonts.googleapis.com/css?family=Open+Sans:400,700&display=swap" as="style" type="text/css" crossorigin>
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="theme-color" content="#157878">
-    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
-    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
-    {% include head-custom.html %}
-  </head>
-  <body>
-    <a id="skip-to-content" href="#content">Skip to the content.</a>
+	{% include _masthead.html %}
+	{{ content }}
 
-    <header class="page-header" role="banner">
-      <img src="{{ page.image | default: site.logo }}" alt="{{ page.title | default: site.title | default: site.github.repository_name }}" style="max-width: 25%;" class="project-name" />
-      <!-- <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1> -->
-      <h1 class="project-name">Miljavac Electric Corporation</h1>
-      <h3>Since 1981</h3>
-      <h2 class="project-tagline">1421 Mitchell Ave., St. Joseph, Mo 64507</h2>
-      {% if site.github.is_project_page %}
-        <a href="{{ site.github.repository_url }}" class="btn">View on GitHub</a>
-      {% endif %}
-        <a href="./about.html" class="btn">About</a>
-        <a href="mailto:koelslaw@gmail.com" class="btn">Contact</a>
-        <a href="./design.html" class="btn">Electrical Design</a>
-        <a href="./commercial.html" class="btn">Commercial</a>
-    </header>
+	{% unless page.skip_boilerplate %}
+	{% include _footer.html %}
+	{% endunless %}
 
-    <main id="content" class="main-content" role="main">
-      {{ content }}
-
-      <footer class="site-footer">
-        <span class="site-footer-credits">This page was built by Koelzer Development, LLC.</span>
-      </footer>
-    </main>
-  </body>
+	{% include _footer_scripts.html %}
+</body>
 </html>
