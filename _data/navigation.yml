@@ -1,14 +1,7 @@
-- title: strixlabs.io
+- title: Miljavac Electric
   url: "/"
   side: left
 
-# - title: Training
-#   url: "/getting-started/"
-#   side: left
-
-- title: "Services"
-  url: "/"
-  side: left
 - title: "Commercial"
   url: "/commercial/"
   side: left
@@ -24,7 +17,7 @@
     url: "/med_fac/"
   - title: "Dental Offices"
     url: "/dental_fac/"
-    - title: "Retirement Facilities"
+  - title: "Retirement Facilities"
     url: "/retirement_fac/"
 - title: "Pharmaceutical"
   url: "/Pharmaceutical/"
