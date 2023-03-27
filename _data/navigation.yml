@@ -2,28 +2,28 @@
   url: "/"
   side: left
 
-- title: "Facility Specialities"
+
+- title: "Commercial"
+  url: "/commercial/"
+  side: left
+- title: "Industrial"
+  url: "/industrial/"
+  side: left
+- title: "Institutional"
   url: "/"
   side: left
   dropdown:
-  - title: "Commercial"
-    url: "/commercial/"
-  - title: "Industrial"
-    url: "/industrial/"
-  - title: "Institutional"
-    url: "/"
-    dropdown:
-    - title: "Rehabilitation Facilities"
-      url: "/rehab_fac/"
-    - title: "Medical Facilities"
-      url: "/med_fac/"
-    - title: "Dental Offices"
-      url: "/dental_fac/"
-    - title: "Retirement Facilities"
-      url: "/retirement_fac/"
-    - title: "Pharmaceutical"
-      url: "/Pharmaceutical/"
-  - title: "Facility Maintenance"
+  - title: "Rehabilitation Facilities"
+    url: "/rehab_fac/"
+  - title: "Medical Facilities"
+    url: "/med_fac/"
+  - title: "Dental Offices"
+    url: "/dental_fac/"
+  - title: "Retirement Facilities"
+    url: "/retirement_fac/"
+  - title: "Pharmaceutical"
+    url: "/Pharmaceutical/"
+- title: "Facility Maintenance"
   url: "/facility_maintenance/"
   side: left
 
