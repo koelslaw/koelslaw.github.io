@@ -2,7 +2,7 @@
 layout: page
 title: "Institutional"
 header:
-   image_fullwidth: "/images/Screenshot 2023-03-19 163509.png"
+   image_fullwidth: "Screenshot 2023-03-19 163509.png"
 permalink: "/institutional/"
 ---
 
