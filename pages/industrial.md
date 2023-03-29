@@ -4,5 +4,11 @@ title: "Industrial"
 permalink: "/industrial/"
 ---
 
-## Title
-Info
+## Header 1
+![](images/Screenshot 2023-03-19 155125.png)
+desc 1
+
+
+## Header 2
+![](Screenshot 2023-03-19 160800.png)
+desc 2
