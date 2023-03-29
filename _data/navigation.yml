@@ -25,7 +25,9 @@
 - title: "Pharmaceutical"
   url: "pharma/"
   side: left
-
+- title: "Facility Maintenance"
+  url: "facility_maintx/"
+  side: left
 - title: "Security/Low Voltage"
   url: ""
   side: left
@@ -37,6 +39,3 @@
   - title: "Building Management"
     url: "building/"
 
-- title: "Facility Maintenance"
-  url: "facility_maintx/"
-  side: left
