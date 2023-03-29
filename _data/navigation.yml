@@ -10,19 +10,21 @@
   url: "industrial/"
   side: left
 - title: "Institutional"
-  url: ""
+  url: "institutional/"
   side: left
-  dropdown:
-  - title: "Rehabilitation Facilities"
-    url: "rehab_fac/"
-  - title: "Medical Facilities"
-    url: "med_fac/"
-  - title: "Dental Offices"
-    url: "dental_fac/"
-  - title: "Retirement Facilities"
-    url: "retirement_fac/"
-  - title: "Pharmaceutical"
-    url: "pharma/"
+  # dropdown:
+  # - title: "Rehabilitation Facilities"
+  #   url: "rehab_fac/"
+  # - title: "Medical Facilities"
+  #   url: "med_fac/"
+  # - title: "Dental Offices"
+  #   url: "dental_fac/"
+- title: "Retirement Facilities"
+  url: "retirement_fac/"
+  side: left
+- title: "Pharmaceutical"
+  url: "pharma/"
+  side: left
 
 - title: "Security/Low Voltage"
   url: ""

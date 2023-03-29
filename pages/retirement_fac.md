@@ -1,8 +1,6 @@
 ---
 layout: page
-title: "REtirement Facilities"
-header:
-   image_fullwidth: "marvin-meyer-SYTO3xs06fU-unsplash-smaller.jpg"
+title: "Retirement Facilities"
 permalink: "/retirement_fac/"
 ---
 
