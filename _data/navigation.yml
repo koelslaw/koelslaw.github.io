@@ -19,9 +19,9 @@
   #   url: "med_fac/"
   # - title: "Dental Offices"
   #   url: "dental_fac/"
-- title: "Retirement Facilities"
-  url: "retirement_fac/"
-  side: left
+# - title: "Retirement Facilities"
+#   url: "retirement_fac/"
+#   side: left
 - title: "Pharmaceutical"
   url: "pharma/"
   side: left
